@@ -1,0 +1,352 @@
+[
+  {
+    "ID": "c:main.c@T@uint32_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned int",
+    "location": {
+      "column": "22",
+      "line": "1",
+      "path": "C:\\Users\\phelp\\OneDrive\\Documents\\RTOS\\Task1\\test1\\main.c"
+    },
+    "name": "uint32_t",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@46@macro@RCGCUART",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RCGCUART",
+    "location": {
+      "column": "9",
+      "line": "5",
+      "path": "C:\\Users\\phelp\\OneDrive\\Documents\\RTOS\\Task1\\test1\\main.c"
+    },
+    "name": "RCGCUART",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@109@macro@RCGCGPIO",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RCGCGPIO",
+    "location": {
+      "column": "9",
+      "line": "6",
+      "path": "C:\\Users\\phelp\\OneDrive\\Documents\\RTOS\\Task1\\test1\\main.c"
+    },
+    "name": "RCGCGPIO",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@172@macro@GPIOPCTL",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIOPCTL",
+    "location": {
+      "column": "9",
+      "line": "7",
+      "path": "C:\\Users\\phelp\\OneDrive\\Documents\\RTOS\\Task1\\test1\\main.c"
+    },
+    "name": "GPIOPCTL",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@235@macro@GPIOAFSEL",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIOAFSEL",
+    "location": {
+      "column": "9",
+      "line": "8",
+      "path": "C:\\Users\\phelp\\OneDrive\\Documents\\RTOS\\Task1\\test1\\main.c"
+    },
+    "name": "GPIOAFSEL",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@299@macro@GPIODEN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIODEN",
+    "location": {
+      "column": "9",
+      "line": "9",
+      "path": "C:\\Users\\phelp\\OneDrive\\Documents\\RTOS\\Task1\\test1\\main.c"
+    },
+    "name": "GPIODEN",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@364@macro@GPIOCR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIOCR",
+    "location": {
+      "column": "9",
+      "line": "11",
+      "path": "C:\\Users\\phelp\\OneDrive\\Documents\\RTOS\\Task1\\test1\\main.c"
+    },
+    "name": "GPIOCR",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@426@macro@GPIODR2R",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIODR2R",
+    "location": {
+      "column": "9",
+      "line": "12",
+      "path": "C:\\Users\\phelp\\OneDrive\\Documents\\RTOS\\Task1\\test1\\main.c"
+    },
+    "name": "GPIODR2R",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@491@macro@UART0_BASE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART0_BASE",
+    "location": {
+      "column": "9",
+      "line": "14",
+      "path": "C:\\Users\\phelp\\OneDrive\\Documents\\RTOS\\Task1\\test1\\main.c"
+    },
+    "name": "UART0_BASE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@525@macro@UARTCTL",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UARTCTL",
+    "location": {
+      "column": "9",
+      "line": "15",
+      "path": "C:\\Users\\phelp\\OneDrive\\Documents\\RTOS\\Task1\\test1\\main.c"
+    },
+    "name": "UARTCTL",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@588@macro@UARTIBRD",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UARTIBRD",
+    "location": {
+      "column": "9",
+      "line": "16",
+      "path": "C:\\Users\\phelp\\OneDrive\\Documents\\RTOS\\Task1\\test1\\main.c"
+    },
+    "name": "UARTIBRD",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@651@macro@UARTFBRD",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UARTFBRD",
+    "location": {
+      "column": "9",
+      "line": "17",
+      "path": "C:\\Users\\phelp\\OneDrive\\Documents\\RTOS\\Task1\\test1\\main.c"
+    },
+    "name": "UARTFBRD",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@714@macro@UARTLCRH",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UARTLCRH",
+    "location": {
+      "column": "9",
+      "line": "18",
+      "path": "C:\\Users\\phelp\\OneDrive\\Documents\\RTOS\\Task1\\test1\\main.c"
+    },
+    "name": "UARTLCRH",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@777@macro@UARTFR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UARTFR",
+    "location": {
+      "column": "9",
+      "line": "19",
+      "path": "C:\\Users\\phelp\\OneDrive\\Documents\\RTOS\\Task1\\test1\\main.c"
+    },
+    "name": "UARTFR",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@845@macro@UARTDR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UARTDR",
+    "location": {
+      "column": "9",
+      "line": "20",
+      "path": "C:\\Users\\phelp\\OneDrive\\Documents\\RTOS\\Task1\\test1\\main.c"
+    },
+    "name": "UARTDR",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@915@macro@GPIOF_DATA",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIOF_DATA",
+    "location": {
+      "column": "9",
+      "line": "22",
+      "path": "C:\\Users\\phelp\\OneDrive\\Documents\\RTOS\\Task1\\test1\\main.c"
+    },
+    "name": "GPIOF_DATA",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1000@macro@GPIOF_DEN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIOF_DEN",
+    "location": {
+      "column": "9",
+      "line": "23",
+      "path": "C:\\Users\\phelp\\OneDrive\\Documents\\RTOS\\Task1\\test1\\main.c"
+    },
+    "name": "GPIOF_DEN",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1085@macro@GPIOF_DIR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIOF_DIR",
+    "location": {
+      "column": "9",
+      "line": "24",
+      "path": "C:\\Users\\phelp\\OneDrive\\Documents\\RTOS\\Task1\\test1\\main.c"
+    },
+    "name": "GPIOF_DIR",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1176@macro@RCGC2",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RCGC2",
+    "location": {
+      "column": "9",
+      "line": "28",
+      "path": "C:\\Users\\phelp\\OneDrive\\Documents\\RTOS\\Task1\\test1\\main.c"
+    },
+    "name": "RCGC2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@read_char",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "char read_char(void)",
+    "location": {
+      "column": "6",
+      "line": "32",
+      "path": "C:\\Users\\phelp\\OneDrive\\Documents\\RTOS\\Task1\\test1\\main.c"
+    },
+    "name": "read_char",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1278@F@read_char@c",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "c",
+    "location": {
+      "column": "7",
+      "line": "34",
+      "path": "C:\\Users\\phelp\\OneDrive\\Documents\\RTOS\\Task1\\test1\\main.c"
+    },
+    "name": "c",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@print_char",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void print_char(char)",
+    "location": {
+      "column": "6",
+      "line": "41",
+      "path": "C:\\Users\\phelp\\OneDrive\\Documents\\RTOS\\Task1\\test1\\main.c"
+    },
+    "name": "print_char",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@print_string",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void print_string(char *)",
+    "location": {
+      "column": "6",
+      "line": "48",
+      "path": "C:\\Users\\phelp\\OneDrive\\Documents\\RTOS\\Task1\\test1\\main.c"
+    },
+    "name": "print_string",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "58",
+      "path": "C:\\Users\\phelp\\OneDrive\\Documents\\RTOS\\Task1\\test1\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@3041@F@main@c",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "c",
+    "location": {
+      "column": "6",
+      "line": "107",
+      "path": "C:\\Users\\phelp\\OneDrive\\Documents\\RTOS\\Task1\\test1\\main.c"
+    },
+    "name": "c",
+    "origin": "project_file",
+    "scope": null
+  }
+]
